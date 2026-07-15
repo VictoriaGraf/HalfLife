@@ -1,0 +1,7 @@
+name: quality_classification
+text_field: text
+pipeline:
+  - name: fasttext_annotator
+    kwargs:
+      fast_text_file: ft_classifiers/dolma3_qc/model.bin
+      output_field: metadata.dolma3_qc

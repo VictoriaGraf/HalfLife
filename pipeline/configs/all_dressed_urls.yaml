@@ -1,0 +1,67 @@
+name: alldressed_urls_only
+text_field: text
+pipeline:
+  - name: non_null_filter
+  - name: url_substring_filter
+    kwargs:
+      url_key: metadata.WARC-Target-URI
+      alt_url_key: metadata.warc_url
+      banlist_file: banlists/refinedweb_banned_domains_curated.txt.gz
+      exact_domain_match: true
+      ignore_chars: ['www']
+  - name: url_substring_filter
+    kwargs:
+      url_key: metadata.WARC-Target-URI
+      alt_url_key: metadata.warc_url
+      banlist_file: banlists/refinedweb_banned_words_strict_reverse_engineered.txt.gz
+      ignore_chars: ['-', '.']
+  - name: url_substring_filter
+    kwargs:
+      url_key: metadata.WARC-Target-URI
+      alt_url_key: metadata.warc_url
+      banlist_file: banlists/refinedweb_banned_words_hard_reverse_engineered.txt.gz
+      match_substrings: false
+  - name: url_substring_filter
+    kwargs:
+      url_key: metadata.WARC-Target-URI
+      alt_url_key: metadata.warc_url
+      banlist_file: banlists/refinedweb_banned_words_soft_reverse_engineered.txt.gz
+      num_banned_substrs: 2
+      match_substrings: false
+  - name: url_substring_filter
+    kwargs:
+      url_key: metadata.WARC-Target-URI
+      alt_url_key: metadata.warc_url
+      banlist_file: banlists/fineweb_url_filters/domains.txt.gz
+      exact_domain_match: true
+  - name: url_substring_filter
+    kwargs:
+      url_key: metadata.WARC-Target-URI
+      alt_url_key: metadata.warc_url
+      banlist_file: banlists/fineweb_url_filters/domains.txt.gz
+      exact_subdomain_match: true
+  - name: url_substring_filter
+    kwargs:
+      url_key: metadata.WARC-Target-URI
+      alt_url_key: metadata.warc_url
+      banlist_file: banlists/fineweb_url_filters/urls.txt.gz
+      exact_url_match: true
+  - name: url_substring_filter
+    kwargs:
+      url_key: metadata.WARC-Target-URI
+      alt_url_key: metadata.warc_url
+      banlist_file: banlists/fineweb_url_filters/banned_words.txt.gz
+      exact_part_match: true
+  - name: url_substring_filter
+    kwargs:
+      url_key: metadata.WARC-Target-URI
+      alt_url_key: metadata.warc_url
+      banlist_file: banlists/fineweb_url_filters/soft_banned_words.txt.gz
+      match_substrings: false
+      num_banned_substrs: 2
+  - name: url_substring_filter
+    kwargs:
+      url_key: metadata.WARC-Target-URI
+      alt_url_key: metadata.warc_url
+      banlist_file: banlists/fineweb_url_filters/banned_subwords.txt.gz
+      match_substrings: true

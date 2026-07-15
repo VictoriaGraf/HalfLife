@@ -1,0 +1,2444 @@
+{
+  "adult_content": {
+    "training_threshold_vigintile": 11,
+    "vigintiles": {
+      "vigintile_07": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0000069778470788e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0000069778470788e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.00007946457481e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.00007946457481e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.0005917829403188e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.0005917829403188e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.0031447345681954e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.0031447345681954e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.0138955985894428e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.0138955985894428e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.055562370311236e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.055562370311236e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 1.2127314221288543e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 1.2127314221288543e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 1.828993481467478e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 1.828993481467478e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 4.465806341613643e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 4.465806341613643e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.00016660586697980762,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.00016660586697980762,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0011909237364307046,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.20760545134544373,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "art_and_design": {
+    "training_threshold_vigintile": 10,
+    "vigintiles": {
+      "vigintile_05": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.0000012480304576e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.0000012480304576e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0000117981689982e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0000117981689982e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0000842848967297e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0000842848967297e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0004715477407444e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0004715477407444e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.0021942216553724e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.0021942216553724e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.0089291208714712e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.0089291208714712e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.032250565913273e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.032250565913273e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.1061671102652326e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.1061671102652326e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 1.3284477972774766e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 1.3284477972774766e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 1.947828241100069e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 1.947828241100069e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 3.857844058074989e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 3.857844058074989e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.00010428990935906768,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.00010428990935906768,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0003863387100864202,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.0029340675100684166,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "crime_and_law": {
+    "training_threshold_vigintile": 9,
+    "vigintiles": {
+      "vigintile_02": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "5-10%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_03": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "10-15%",
+        "upper_threshold": 1.0000022484746296e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_04": {
+        "lower_threshold": 1.0000022484746296e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.0000375368690584e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.0000375368690584e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0003208444686608e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0003208444686608e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.001732744043693e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.001732744043693e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.006905768008437e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.006905768008437e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0226353879261296e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0226353879261296e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0638046660460532e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0638046660460532e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.1627242201939224e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.1627242201939224e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.3852417396265082e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.3852417396265082e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.85875815077452e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.85875815077452e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 2.8431799364625476e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 2.8431799364625476e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 4.8958729166770354e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 4.8958729166770354e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 9.19847225304693e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 9.19847225304693e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 0.000187109675607644,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 0.000187109675607644,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.0004212297208141535,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.0004212297208141535,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.001124573522247374,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.004785462282598019,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "education_and_jobs": {
+    "training_threshold_vigintile": 9,
+    "vigintiles": {
+      "vigintile_03": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "10-15%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_04": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.0000022484746296e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.0000022484746296e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0000203474191949e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0000203474191949e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.0001223927247338e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.0001223927247338e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0005545846070165e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0005545846070165e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0020815352618229e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0020815352618229e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.006808815873228e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.006808815873228e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.0201252734987064e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.0201252734987064e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.0550470506132116e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.0550470506132116e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.1425961929489858e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.1425961929489858e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.3569558177550787e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.3569558177550787e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 1.8879178242059425e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 1.8879178242059425e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 3.212173032807186e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 3.212173032807186e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 6.74436887493357e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 6.74436887493357e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.00017331242270302027,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.00017331242270302027,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0005870801978744566,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.00395723432302475,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "electronics_and_hardware": {
+    "training_threshold_vigintile": 9,
+    "vigintiles": {
+      "vigintile_05": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.000006068352377e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.000006068352377e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0000365364248864e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0000365364248864e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0001929695135914e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0001929695135914e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0008485332946291e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0008485332946291e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.003218403639039e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.003218403639039e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.011152289720485e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.011152289720485e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.0360732630942948e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.0360732630942948e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.111338769987924e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.111338769987924e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 1.328294547420228e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 1.328294547420228e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 1.9569497453630905e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 1.9569497453630905e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 3.822521466645412e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 3.822521466645412e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.00010011697304435074,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.00010011697304435074,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0003594496811274439,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.002519352827221155,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "entertainment": {
+    "training_threshold_vigintile": 10,
+    "vigintiles": {
+      "vigintile_05": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.0000050679082053e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.0000050679082053e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0000565453083254e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0000565453083254e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0003990610130131e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0003990610130131e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0021034540841356e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0021034540841356e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.0088059752888512e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.0088059752888512e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.0315656254533678e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.0315656254533678e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.1003980034729466e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.1003980034729466e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.2938818144903053e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.2938818144903053e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 1.8206488675787114e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 1.8206488675787114e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 3.225043474230915e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 3.225043474230915e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 7.097339403117076e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 7.097339403117076e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.0001882011711131781,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.0001882011711131781,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0006231992156244814,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.0035496498458087444,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "fashion_and_beauty": {
+    "training_threshold_vigintile": 10,
+    "vigintiles": {
+      "vigintile_06": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0000022484746296e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0000022484746296e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0000117981689982e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0000117981689982e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.000052725430578e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.000052725430578e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.0002197086578237e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.0002197086578237e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.0008513527282048e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.0008513527282048e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.0031074452854227e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.0031074452854227e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.01084187917877e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.01084187917877e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 1.037561469274806e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 1.037561469274806e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 1.128975418396294e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 1.128975418396294e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 1.4655591257906052e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 1.4655591257906052e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 2.841905916284304e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 2.841905916284304e-05,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0001014046065392904,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.0010083592496812344,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "finance_and_business": {
+    "training_threshold_vigintile": 9,
+    "vigintiles": {
+      "vigintile_02": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "5-10%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_03": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "10-15%",
+        "upper_threshold": 1.0000022484746296e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_04": {
+        "lower_threshold": 1.0000022484746296e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.000047086563427e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.000047086563427e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0004152500187049e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0004152500187049e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.0022306014434434e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.0022306014434434e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0087261216540355e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0087261216540355e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0274293344991747e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0274293344991747e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0756918527476955e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0756918527476955e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.1893579539901111e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.1893579539901111e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.4414348697755486e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.4414348697755486e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.9760751456487924e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.9760751456487924e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 3.0879884434398264e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 3.0879884434398264e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 5.4031981562729925e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 5.4031981562729925e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 0.00010434323485242204,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 0.00010434323485242204,
+        "percentile_range": "75-80%",
+        "upper_threshold": 0.00022324199380818752,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 0.00022324199380818752,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.0005476626683957875,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.0005476626683957875,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.00173812301363796,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.011791275814175606,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "food_and_dining": {
+    "training_threshold_vigintile": 9,
+    "vigintiles": {
+      "vigintile_04": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0000041584135031e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0000041584135031e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.0000279871746898e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.0000279871746898e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0001576811191626e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0001576811191626e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0007081982621456e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0007081982621456e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.002710541797569e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.002710541797569e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.0091677722812165e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.0091677722812165e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.0282458788424265e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.0282458788424265e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.0808570550580043e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.0808570550580043e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.2202688594697976e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.2202688594697976e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 1.5852714568609372e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 1.5852714568609372e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 2.5306584575446323e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 2.5306584575446323e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 5.0926795665873215e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 5.0926795665873215e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.00012824477744288745,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.00012824477744288745,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.00042976680560968816,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.0027607157826423645,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "games": {
+    "training_threshold_vigintile": 10,
+    "vigintiles": {
+      "vigintile_04": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0000022484746296e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0000022484746296e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.000033716991311e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.000033716991311e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0002826456911862e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0002826456911862e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0016315172833856e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0016315172833856e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0070901225844864e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0070901225844864e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.0245262274111155e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.0245262274111155e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.0723711056925822e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.0723711056925822e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.1938546776946168e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.1938546776946168e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.4955482583900448e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.4955482583900448e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 2.2319993149721995e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 2.2319993149721995e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 4.165333302807994e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 4.165333302807994e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 9.827983740251511e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 9.827983740251511e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.0002947089378722012,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.0002947089378722012,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0011821213411167264,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.009383954107761385,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "health": {
+    "training_threshold_vigintile": 10,
+    "vigintiles": {
+      "vigintile_02": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "5-10%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_03": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "10-15%",
+        "upper_threshold": 1.0000022484746296e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_04": {
+        "lower_threshold": 1.0000022484746296e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.0000356269301848e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.0000356269301848e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0003083843912464e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0003083843912464e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.001753753371304e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.001753753371304e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0073398698295932e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0073398698295932e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.025100937113166e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.025100937113166e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0738110177044293e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0738110177044293e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.1952399290748872e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.1952399290748872e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.4708195521961898e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.4708195521961898e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 2.0757810489158143e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 2.0757810489158143e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 3.357239256729372e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 3.357239256729372e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 6.051479795132764e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 6.051479795132764e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 0.00011934056237805636,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 0.00011934056237805636,
+        "percentile_range": "75-80%",
+        "upper_threshold": 0.0002545718161854893,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 0.0002545718161854893,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.0006115652504377067,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.0006115652504377067,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0018307395512238145,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.010373161174356936,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "history_and_geography": {
+    "training_threshold_vigintile": 11,
+    "vigintiles": {
+      "vigintile_04": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.000006068352377e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.000006068352377e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.0001090231526176e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.0001090231526176e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0010470759880263e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0010470759880263e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0067838047689293e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0067838047689293e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.033000989991706e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.033000989991706e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.1296711818431504e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.1296711818431504e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.4367397852765862e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.4367397852765862e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 2.2863028789288364e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 2.2863028789288364e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 4.4477637857198715e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 4.4477637857198715e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 9.864877938525753e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 9.864877938525753e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 0.00023430951114278287,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 0.00023430951114278287,
+        "percentile_range": "75-80%",
+        "upper_threshold": 0.0005819521029479802,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 0.0005819521029479802,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.0015541486209258435,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.0015541486209258435,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0049498723819851875,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.02669703960418701,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "home_and_hobbies": {
+    "training_threshold_vigintile": 9,
+    "vigintiles": {
+      "vigintile_05": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.0000012480304576e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.0000012480304576e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0000069778470788e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0000069778470788e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0000384463637602e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0000384463637602e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.000181509880349e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.000181509880349e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.0007578566728624e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.0007578566728624e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.0028749784396496e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.0028749784396496e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.0102125997946132e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.0102125997946132e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.0340448170609308e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.0340448170609308e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 1.1100464689661749e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 1.1100464689661749e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 1.3520522770704702e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 1.3520522770704702e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 2.1424701117211953e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 2.1424701117211953e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 4.907835682388395e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 4.907835682388395e-05,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.00016914417210500687,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.0013212442863732576,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "industrial": {
+    "training_threshold_vigintile": 9,
+    "vigintiles": {
+      "vigintile_03": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "10-15%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_04": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.0000012480304576e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.0000012480304576e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0000165275414474e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0000165275414474e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.000108113657916e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.000108113657916e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0005202057072893e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0005202057072893e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.002037515718257e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.002037515718257e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0067588846141008e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0067588846141008e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.019970568449935e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.019970568449935e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.0549263606662862e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.0549263606662862e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.143979807238793e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.143979807238793e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.366091692034388e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.366091692034388e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 1.916463406814728e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 1.916463406814728e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 3.331529296701774e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 3.331529296701774e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 7.096148328855634e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 7.096148328855634e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.000187338053365238,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.000187338053365238,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0006687332061119378,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.0052822306752204895,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "literature": {
+    "training_threshold_vigintile": 12,
+    "vigintiles": {
+      "vigintile_04": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0000022484746296e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0000022484746296e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.0000269867305178e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.0000269867305178e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0002216185966972e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0002216185966972e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0013411156251095e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0013411156251095e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0066724826174324e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0066724826174324e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.0277399269398302e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.0277399269398302e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.1016517419193406e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.1016517419193406e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.3348381799005438e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.3348381799005438e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 2.016960752371233e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 2.016960752371233e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 3.9502680010627955e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 3.9502680010627955e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 9.350056643597782e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 9.350056643597782e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 0.00024699632194824517,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 0.00024699632194824517,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.0007083393284119666,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.0007083393284119666,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0024205457884818316,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.012596217915415764,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "politics": {
+    "training_threshold_vigintile": 9,
+    "vigintiles": {
+      "vigintile_02": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "5-10%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_03": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "10-15%",
+        "upper_threshold": 1.0000184374803212e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_04": {
+        "lower_threshold": 1.0000184374803212e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.0003064744523726e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.0003064744523726e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0023834875028116e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0023834875028116e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.011700169328833e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.011700169328833e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0420088074170051e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0420088074170051e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.121645709645236e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.121645709645236e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.3023917745158542e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.3023917745158542e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.678867010923568e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.678867010923568e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 2.4003315047593787e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 2.4003315047593787e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 3.7564172089332715e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 3.7564172089332715e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 6.263594696065411e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 6.263594696065411e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 0.00010833312990143897,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 0.00010833312990143897,
+        "percentile_range": "70-75%",
+        "upper_threshold": 0.0001946174743352458,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 0.0001946174743352458,
+        "percentile_range": "75-80%",
+        "upper_threshold": 0.0003661627415567637,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 0.0003661627415567637,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.0007429005345329642,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.0007429005345329642,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0017861241940408945,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.006528337951749563,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "religion": {
+    "training_threshold_vigintile": 11,
+    "vigintiles": {
+      "vigintile_03": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "10-15%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_04": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.000006068352377e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.000006068352377e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0000785550801083e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0000785550801083e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.000570773612708e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.000570773612708e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0029390978161246e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0029390978161246e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.01169343906804e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.01169343906804e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0391309842816554e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0391309842816554e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.113974576583132e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.113974576583132e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.2967724615009502e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.2967724615009502e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.7133435903815553e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.7133435903815553e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 2.6208468625554815e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 2.6208468625554815e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 4.561310197459534e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 4.561310197459534e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 8.786732360022143e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 8.786732360022143e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 0.0001833704736782238,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 0.0001833704736782238,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.00042383282561786473,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.00042383282561786473,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0011737372260540724,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.005377298220992088,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "science_math_and_technology": {
+    "training_threshold_vigintile": 10,
+    "vigintiles": {
+      "vigintile_02": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "5-10%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_03": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "10-15%",
+        "upper_threshold": 1.0000012480304576e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_04": {
+        "lower_threshold": 1.0000012480304576e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.0000231668527704e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.0000231668527704e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0002501767303327e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0002501767303327e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.0017795830208344e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.0017795830208344e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0087444024975412e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0087444024975412e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0344896509195678e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0344896509195678e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.1143804840685334e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.1143804840685334e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.327479003521148e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.327479003521148e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.862994395196438e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.862994395196438e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 3.12308402499184e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 3.12308402499184e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 5.994219827698544e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 5.994219827698544e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 0.00012503181642387062,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 0.00012503181642387062,
+        "percentile_range": "70-75%",
+        "upper_threshold": 0.00027538539143279195,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 0.00027538539143279195,
+        "percentile_range": "75-80%",
+        "upper_threshold": 0.0006442329031415284,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 0.0006442329031415284,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.0016833946574479342,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.0016833946574479342,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.00548817403614521,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.033942192792892456,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "social_life": {
+    "training_threshold_vigintile": 10,
+    "vigintiles": {
+      "vigintile_04": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0000022484746296e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0000022484746296e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.0000222573580686e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.0000222573580686e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0001548616855873e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0001548616855873e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.000788324745372e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.000788324745372e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0032078535004985e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0032078535004985e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.0114599717780948e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.0114599717780948e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.036271896737162e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.036271896737162e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.105226510844659e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.105226510844659e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.2861607501690742e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.2861607501690742e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 1.73421958606923e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 1.73421958606923e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 2.847646646841895e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 2.847646646841895e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 5.683099152520299e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 5.683099152520299e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.00013665444566868246,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.00013665444566868246,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.00041814366704784334,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.0021705860272049904,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "software": {
+    "training_threshold_vigintile": 10,
+    "vigintiles": {
+      "vigintile_06": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0000050679082053e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0000050679082053e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.000039446807932e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.000039446807932e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0002244380302727e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0002244380302727e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.001076634565834e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.001076634565834e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.004435216600541e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.004435216600541e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.0170837413170377e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.0170837413170377e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.060609702108195e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.060609702108195e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 1.2071328455931509e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 1.2071328455931509e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 1.6844094716361724e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 1.6844094716361724e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 3.2377462048316374e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 3.2377462048316374e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 9.27168657653965e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 9.27168657653965e-05,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.00040865587652660906,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.004685830324888229,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "software_development": {
+    "training_threshold_vigintile": 10,
+    "vigintiles": {
+      "vigintile_04": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0000012480304576e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0000012480304576e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.0000156180467457e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.0000156180467457e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0001157534134109e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0001157534134109e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0006824595620856e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0006824595620856e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0032796126324683e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0032796126324683e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.0136201126442757e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.0136201126442757e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.0490893146197776e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.0490893146197776e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.1617078598646913e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.1617078598646913e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.4973335055401549e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.4973335055401549e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 2.4879907869035375e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 2.4879907869035375e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 5.395567131927237e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 5.395567131927237e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 0.0001459985360270366,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 0.0001459985360270366,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.0004758175928145647,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.0004758175928145647,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0020601851865649223,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.019182076677680016,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "sports_and_fitness": {
+    "training_threshold_vigintile": 9,
+    "vigintiles": {
+      "vigintile_03": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "10-15%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_04": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.0000022484746296e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.0000022484746296e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0000375368690584e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0000375368690584e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.000323663902236e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.000323663902236e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0018435204983687e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0018435204983687e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0078299965243788e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0078299965243788e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0269835911458358e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0269835911458358e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.0777393981697967e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.0777393981697967e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.19783708214527e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.19783708214527e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.462053751311032e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.462053751311032e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 2.0136723833275028e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 2.0136723833275028e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 3.121848203591071e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 3.121848203591071e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 5.39007451152429e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 5.39007451152429e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 0.00010241301788482816,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 0.00010241301788482816,
+        "percentile_range": "80-85%",
+        "upper_threshold": 0.00021671409194823352,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 0.00021671409194823352,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0005496643716469407,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.0022601152304559946,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "transportation": {
+    "training_threshold_vigintile": 9,
+    "vigintiles": {
+      "vigintile_05": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.0000012480304576e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.0000012480304576e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0000165275414474e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0000165275414474e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0001185728469864e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0001185728469864e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0006480806623586e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0006480806623586e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.002887438517064e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.002887438517064e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.011161020869622e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.011161020869622e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.0382661457697395e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.0382661457697395e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.1203274880244862e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.1203274880244862e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 1.3565288099925963e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 1.3565288099925963e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 2.014294659602456e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 2.014294659602456e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 3.913864202331752e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 3.913864202331752e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 9.936704009305686e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 9.936704009305686e-05,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.00033926632022485137,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.0022125442046672106,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  },
+  "travel_and_tourism": {
+    "training_threshold_vigintile": 8,
+    "vigintiles": {
+      "vigintile_03": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "10-15%",
+        "upper_threshold": 1.000000338535756e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_04": {
+        "lower_threshold": 1.000000338535756e-05,
+        "percentile_range": "15-20%",
+        "upper_threshold": 1.0000012480304576e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_05": {
+        "lower_threshold": 1.0000012480304576e-05,
+        "percentile_range": "20-25%",
+        "upper_threshold": 1.0000069778470788e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_06": {
+        "lower_threshold": 1.0000069778470788e-05,
+        "percentile_range": "25-30%",
+        "upper_threshold": 1.000040356302634e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_07": {
+        "lower_threshold": 1.000040356302634e-05,
+        "percentile_range": "30-35%",
+        "upper_threshold": 1.0001920600188896e-05,
+        "used_in_training": "no"
+      },
+      "vigintile_08": {
+        "lower_threshold": 1.0001920600188896e-05,
+        "percentile_range": "35-40%",
+        "upper_threshold": 1.0007597666117364e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_09": {
+        "lower_threshold": 1.0007597666117364e-05,
+        "percentile_range": "40-45%",
+        "upper_threshold": 1.0026779818872456e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_10": {
+        "lower_threshold": 1.0026779818872456e-05,
+        "percentile_range": "45-50%",
+        "upper_threshold": 1.0082145308842884e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_11": {
+        "lower_threshold": 1.0082145308842884e-05,
+        "percentile_range": "50-55%",
+        "upper_threshold": 1.0239753464702517e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_12": {
+        "lower_threshold": 1.0239753464702517e-05,
+        "percentile_range": "55-60%",
+        "upper_threshold": 1.0659983672667296e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_13": {
+        "lower_threshold": 1.0659983672667296e-05,
+        "percentile_range": "60-65%",
+        "upper_threshold": 1.173978944279952e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_14": {
+        "lower_threshold": 1.173978944279952e-05,
+        "percentile_range": "65-70%",
+        "upper_threshold": 1.442859684175346e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_15": {
+        "lower_threshold": 1.442859684175346e-05,
+        "percentile_range": "70-75%",
+        "upper_threshold": 2.1103225662955083e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_16": {
+        "lower_threshold": 2.1103225662955083e-05,
+        "percentile_range": "75-80%",
+        "upper_threshold": 3.903620381606743e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_17": {
+        "lower_threshold": 3.903620381606743e-05,
+        "percentile_range": "80-85%",
+        "upper_threshold": 8.987377805169672e-05,
+        "used_in_training": "yes"
+      },
+      "vigintile_18": {
+        "lower_threshold": 8.987377805169672e-05,
+        "percentile_range": "85-90%",
+        "upper_threshold": 0.0002768621488939971,
+        "used_in_training": "yes"
+      },
+      "vigintile_20": {
+        "lower_threshold": 0.001581792836077511,
+        "percentile_range": "95-100%",
+        "upper_threshold": 1.0,
+        "used_in_training": "yes"
+      }
+    }
+  }
+}
